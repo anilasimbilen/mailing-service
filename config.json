@@ -1,0 +1,11 @@
+{
+  "secret_key": "SECRET_KEY_GOES_HERE",
+  "credentials": {
+    "email_address": "sample@mail.org",
+    "password": "MyPass"
+  },
+  "smtp": {
+    "host": "smtp.sample.com",
+    "port": 123456
+  }
+}
